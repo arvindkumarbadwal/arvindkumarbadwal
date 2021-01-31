@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, This is Arvind
 
-<!--
-**arvindkumarbadwal/arvindkumarbadwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my Github profile.
 
-Here are some ideas to get you started:
+I'm currently a senior software developer in a company.
+I have been working on web application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills
+
+- **Languages**: PHP, NodeJs (Javascript)
+- **Frameworks**: Laravel, ExpressJs, Adonisjs, NestJs & ReactJs
+- **Databases**: MySql, Postgres, MongoDb & Redis
+- **Server**: Nginx
+- **Others**: Docker & AWS
