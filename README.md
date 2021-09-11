@@ -1,7 +1,5 @@
 ### Hi there 👋, This is Arvind
 
-This is my Github profile.
-
 I'm currently a Technical Lead in a company.
 I have been working on web application development.
 
